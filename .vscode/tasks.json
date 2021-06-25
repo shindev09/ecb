@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "test",
+			"path": "js/WOW-master/",
+			"group": "test",
+			"problemMatcher": [],
+			"label": "npm: test - js/WOW-master",
+			"detail": "grunt travis"
+		},
+		
+	]
+}
